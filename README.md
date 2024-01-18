@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RL_2023
 
 Official Repository for the Reinforcement Learning Course at Artificial Intelligence and Robotics (Sapienza University of Rome).
@@ -26,3 +27,6 @@ was used in previous years. A good overview of the differences can be
 found [here](https://gymnasium.farama.org/content/migration-guide/).
 
 
+=======
+# RL_exercises
+>>>>>>> 3ac76bc029c9da25c58b9a700e210cdeb32f9cba
